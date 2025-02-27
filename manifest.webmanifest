@@ -1,0 +1,12 @@
+{
+  "name": "Dasha Taps",
+  "short_name": "Dasha Taps",
+  "id": "com.example.gamename",
+  "description": "Супер-пупер-дупер игра про Дашу, но не путешествиницу, скорее заходи, чтобы узнать глубокие тайны...",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
