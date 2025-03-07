@@ -8,7 +8,7 @@ if (typeof gdjs.evtsExt__ArrayTools__GlobalSum !== "undefined") {
 gdjs.evtsExt__ArrayTools__GlobalSum = {};
 
 
-gdjs.evtsExt__ArrayTools__GlobalSum.userFunc0x136d290 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
+gdjs.evtsExt__ArrayTools__GlobalSum.userFunc0xc9c5d8 = function GDJSInlineCode(runtimeScene, eventsFunctionContext) {
 "use strict";
 eventsFunctionContext.returnValue =
     eventsFunctionContext.getArgument("Array")
@@ -21,7 +21,7 @@ gdjs.evtsExt__ArrayTools__GlobalSum.eventsList0 = function(runtimeScene, eventsF
 {
 
 
-gdjs.evtsExt__ArrayTools__GlobalSum.userFunc0x136d290(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ArrayTools__GlobalSum.userFunc0xc9c5d8(runtimeScene, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
